@@ -31,6 +31,7 @@ Consigli del giorno:
   - arrey
 - chiedo all'utente la sua mail
   - prompt
+- creo delle limitazioni all'utente sull'inserimento della mail
 - controllo che la sua mail sia nella lista
 - stampo un messaggio dell'esito
 
