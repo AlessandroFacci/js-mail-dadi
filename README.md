@@ -28,11 +28,13 @@ Consigli del giorno:
 ### Mail
 
 - creo una lista di mail
-  - arrey
+  - array
 - chiedo all'utente la sua mail
   - prompt
 - creo delle limitazioni all'utente sull'inserimento della mail
 - controllo che la sua mail sia nella lista
+  - for
+    - se è valida
 - stampo un messaggio dell'esito
 
 ### Gioco dei dadi
