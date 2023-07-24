@@ -39,4 +39,6 @@ Consigli del giorno:
 
 ### Gioco dei dadi
 
-- chiedo al giocatore un numero da 1 a 6
+- Genero un numero casuale per l'utente
+- Genero un numero casuale per il pc
+- Stabilisco il vincitore di chi fa il numero più alto

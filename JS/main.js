@@ -28,17 +28,16 @@ for (let i = 0; i < mails.length; i++) {
   console.log(mails[i]);
   //* se è valida
   if (mails[i] == userMail) {
-    vMail = true;
+    validMail = true;
     console.log("Mail valida");
   }
 }
 
 // STAMPO UN MESSAGGIO DELL'ESITO
-if (vMail == true) {
+if (validMail == true) {
   alert("Mail valida");
-}
-if (vMail == false) {
+} else {
   alert("Mail non valida");
 }
 
-console.log(vMail);
+console.log(validMail);
